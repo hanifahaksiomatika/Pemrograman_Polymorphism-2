@@ -1,0 +1,19 @@
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\07 oop - Polymorphism\01 Latihan\LatihanPolymorphism4\bin\Debug\LatihanPolymorphism4.exe.config
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\07 oop - Polymorphism\01 Latihan\LatihanPolymorphism4\obj\Debug\LatihanPolymorphism4.csprojResolveAssemblyReference.cache
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\07 oop - Polymorphism\01 Latihan\LatihanPolymorphism4\bin\Debug\LatihanPolymorphism4.exe
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\07 oop - Polymorphism\01 Latihan\LatihanPolymorphism4\bin\Debug\LatihanPolymorphism4.pdb
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\07 oop - Polymorphism\01 Latihan\LatihanPolymorphism4\obj\Debug\LatihanPolymorphism4.exe
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\07 oop - Polymorphism\01 Latihan\LatihanPolymorphism4\obj\Debug\LatihanPolymorphism4.pdb
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\07 oop - Polymorphism\01 Latihan\LatihanPolymorphism4\bin\Debug\Newtonsoft.Json.dll
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\07 oop - Polymorphism\01 Latihan\LatihanPolymorphism4\bin\Debug\Newtonsoft.Json.xml
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\03 2020-2021\02 Genap\Pemrograman\11 oop - Polymorphsim part #2\LatihanPolymorphism4\bin\Debug\LatihanPolymorphism4.exe.config
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\03 2020-2021\02 Genap\Pemrograman\11 oop - Polymorphsim part #2\LatihanPolymorphism4\obj\Debug\LatihanPolymorphism4.pdb
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\03 2020-2021\02 Genap\Pemrograman\11 oop - Polymorphsim part #2\LatihanPolymorphism4\obj\Debug\LatihanPolymorphism4.csprojResolveAssemblyReference.cache
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\03 2020-2021\02 Genap\Pemrograman\11 oop - Polymorphsim part #2\LatihanPolymorphism4\bin\Debug\LatihanPolymorphism4.exe
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\03 2020-2021\02 Genap\Pemrograman\11 oop - Polymorphsim part #2\LatihanPolymorphism4\bin\Debug\LatihanPolymorphism4.pdb
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\03 2020-2021\02 Genap\Pemrograman\11 oop - Polymorphsim part #2\LatihanPolymorphism4\bin\Debug\Newtonsoft.Json.dll
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\03 2020-2021\02 Genap\Pemrograman\11 oop - Polymorphsim part #2\LatihanPolymorphism4\bin\Debug\Newtonsoft.Json.xml
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\03 2020-2021\02 Genap\Pemrograman\11 oop - Polymorphsim part #2\LatihanPolymorphism4\obj\Debug\LatihanPolymorphism4.exe
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\04 2021-2022\02 Genap\Pemrograman\Pemrograman\11 oop - Polymorphsim part #2\LatihanPolymorphism4\bin\Debug\LatihanPolymorphism4.exe.config
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\04 2021-2022\02 Genap\Pemrograman\Pemrograman\11 oop - Polymorphsim part #2\LatihanPolymorphism4\obj\Debug\LatihanPolymorphism4.exe
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\04 2021-2022\02 Genap\Pemrograman\Pemrograman\11 oop - Polymorphsim part #2\LatihanPolymorphism4\obj\Debug\LatihanPolymorphism4.pdb
